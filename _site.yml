@@ -10,10 +10,12 @@ navbar:
       href: getting_sophisticated.html
     - text: "Your Turn"
       href: your_turn.html
+    - text: "Nina's addition"
+      href: nina-add.html
 output_dir: "."
 output:
   html_document:
-    theme: cosmo
+    theme: cerulean
     highlight: textmate
 #    include:
 #      after_body: _footer.html
